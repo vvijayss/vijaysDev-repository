@@ -31,7 +31,7 @@ public class Apptest1 extends TestCase {
 	protected void tearDown() throws Exception {
 		super.tearDown();
 	}
-	@test
+	@Test
 	public void test()
 	{
 		System.out.println("1Junit testing for bamboo build");
