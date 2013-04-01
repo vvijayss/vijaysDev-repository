@@ -32,7 +32,7 @@ public class Apptest1 extends TestCase {
 		super.tearDown();
 	}
 	@test
-	public void test1()
+	public void test()
 	{
 		System.out.println("Junit testing for bamboo build");
 	}
