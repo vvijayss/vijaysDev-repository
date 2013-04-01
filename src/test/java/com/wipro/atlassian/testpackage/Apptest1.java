@@ -34,7 +34,7 @@ public class Apptest1 extends TestCase {
 	@test
 	public void test()
 	{
-		System.out.println("Junit testing for bamboo build");
+		System.out.println("1Junit testing for bamboo build");
 	}
 
 }
